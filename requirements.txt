@@ -1,1 +1,1 @@
-git+https://github.com/italia/docs-italia-theme.git@bootstrap-italia
+git+https://github.com/italia/docs-italia-theme.git@active-versions
